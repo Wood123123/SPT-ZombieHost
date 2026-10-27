@@ -1,0 +1,12 @@
+﻿{
+  "zombieHosts": ["6acb08501f444127e41896e9"],
+  "mode": "vanilla",
+  "firstWaveDelaySeconds": 10,
+  "waveIntervalSeconds": 300,
+  "wavesPerMap": 6,
+  "entriesPerWave": 5,
+  "escortAmount": "2-3",
+  "perWave": 5,
+  "infectionPercentage": 100,
+  "dropTriggerWaves": true
+}
